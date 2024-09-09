@@ -2,7 +2,7 @@
 ## About this Project
 A collection of Applied Math and Statistics projects, lectures by Faculty of Information Technology, University of Science - VNU-HCMUS. 
 
-This project mainly written in Vietnamese. Contain:
+This project's report mainly written in Vietnamese. Contain:
 - Gauss-Jordan
 - Gram-Schmidth
 - Matrix Diagonalization
