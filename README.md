@@ -15,4 +15,4 @@ An installation of Anaconda can be use, or simply VSCode with Python3 is enough.
 
 __Be La Anh, Thu__
 
-[LinkedIn](https://www.linkedin.com/in/be-anhthu204/) - [Email](mailto:belathu@gmail.com) - [Github](https://www.github.com/ankthuw)
+[LinkedIn](https://www.linkedin.com/in/be-anhthu204/) - [Email](mailto:belanhthu@gmail.com) - [Github](https://www.github.com/ankthuw)
