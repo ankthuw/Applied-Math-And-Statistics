@@ -1,6 +1,6 @@
 # Applied Math and Statistics - `fit@hcmus`
 ## About this Project
-A collection of Applied Math and Statistics projects, lectures by Faculty of Information Technology, University of Science - VNU-HCMUS. 
+A collection of Applied Math and Statistics projects, lectures by Faculty of Information Technology, University of Science - VNU-HCM. 
 
 This project's report mainly written in Vietnamese. Contain:
 - Gauss-Jordan
